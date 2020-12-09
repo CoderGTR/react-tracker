@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-tracker/static/css/main.6957ab23.chunk.css",
+    "main.js": "/react-tracker/static/js/main.42ff806b.chunk.js",
+    "main.js.map": "/react-tracker/static/js/main.42ff806b.chunk.js.map",
+    "runtime-main.js": "/react-tracker/static/js/runtime-main.8c037281.js",
+    "runtime-main.js.map": "/react-tracker/static/js/runtime-main.8c037281.js.map",
+    "static/js/2.a2d90dad.chunk.js": "/react-tracker/static/js/2.a2d90dad.chunk.js",
+    "static/js/2.a2d90dad.chunk.js.map": "/react-tracker/static/js/2.a2d90dad.chunk.js.map",
+    "index.html": "/react-tracker/index.html",
+    "static/css/main.6957ab23.chunk.css.map": "/react-tracker/static/css/main.6957ab23.chunk.css.map",
+    "static/js/2.a2d90dad.chunk.js.LICENSE.txt": "/react-tracker/static/js/2.a2d90dad.chunk.js.LICENSE.txt",
+    "static/media/item-list.css": "/react-tracker/static/media/remove-icon.594713c1.svg",
+    "static/media/Input.css": "/react-tracker/static/media/play_circle.3581efba.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c037281.js",
+    "static/js/2.a2d90dad.chunk.js",
+    "static/css/main.6957ab23.chunk.css",
+    "static/js/main.42ff806b.chunk.js"
+  ]
+}
